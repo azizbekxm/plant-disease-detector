@@ -14,6 +14,7 @@ Example dataset : https://www.kaggle.com/datasets/seroshkarim/cotton-leaf-diseas
 - Pytorch
 - NumPy
 - Pandas
+- CNN
 - VGG19
 
 
